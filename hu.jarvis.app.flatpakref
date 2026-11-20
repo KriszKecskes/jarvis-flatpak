@@ -1,0 +1,9 @@
+[Flatpak Ref]
+Title=Jarvis
+Name=hu.jarvis.app
+Branch=stable
+Url=https://flatpak.jarvisai.hu/
+SuggestRemoteName=jarvis
+IsRuntime=false
+RuntimeRepo=https://dl.flathub.org/repo/flathub.flatpakrepo
+GPGKey=mDMEavxOeRYJKwYBBAHaRw8BAQdApjGt0sImjfSdHEjZZCsFW/daoYWYYnKF/5vdLkqUUfK0I0phcnZpcyBGbGF0cGFrIChqYXJ2aXMua2Vjc2tlcy5kZXYpiJkEExYKAEEWIQSoE0BRJDUkrnvQdIRblIAuyaV0TgUCavxOeQIbAwUJA8JnAAULCQgHAgIiAgYVCgkICwIEFgIDAQIeBwIXgAAKCRBblIAuyaV0TmUtAQD74gH6d8mReQQdvmbnC14vJBRtgMhhsNMvdrqPfuGUcwEAmS0WC62Mi4i0kZn+DT+zimJ5+Ry3ujYbd0TFnDw28AY=

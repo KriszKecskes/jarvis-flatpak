@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="hu"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Jarvis Flatpak-tároló</title>
+<style>body{font:16px/1.5 system-ui,sans-serif;max-width:40rem;margin:2rem auto;padding:0 1rem}code{background:#8882;padding:.1em .35em;border-radius:4px}pre{background:#8882;padding:.8em;border-radius:8px;overflow-x:auto}</style></head>
+<body><h1>Jarvis Flatpak-tároló</h1>
+<p>Ez a Jarvis aláírt Flatpak-tárolója. Letöltés és bemutatás: <a href="https://jarvisai.hu">jarvisai.hu</a>.</p>
+<h2>Telepítés</h2>
+<pre>flatpak install --user https://flatpak.jarvisai.hu/hu.jarvis.app.flatpakref</pre>
+<p>Ez hozzáadja a tárolót, és a szükséges környezetet a Flathubról húzza le (ha a Flathub még nincs hozzáadva:
+<code>flatpak remote-add --if-not-exists --user flathub https://dl.flathub.org/repo/flathub.flatpakrepo</code>).</p>
+<h2>Frissítés</h2>
+<pre>flatpak update hu.jarvis.app</pre>
+<p>Az app saját Beállítások → Frissítés lapja is ezt végzi, a szoftverközpontok pedig maguktól felkínálják.</p>
+<p><a href="jarvis.flatpakrepo">jarvis.flatpakrepo</a> · <a href="hu.jarvis.app.flatpakref">hu.jarvis.app.flatpakref</a></p>
+</body></html>
