@@ -1,0 +1,8 @@
+[Flatpak Repo]
+Title=Jarvis
+Url=https://flatpak.jarvisai.hu/
+Homepage=https://jarvisai.hu
+Comment=A Jarvis asztali asszisztens Flatpak-tárolója
+Description=A Jarvis privát, saját gépen futó asztali asszisztens aláírt Flatpak-tárolója.
+DefaultBranch=stable
+GPGKey=mDMEavxOeRYJKwYBBAHaRw8BAQdApjGt0sImjfSdHEjZZCsFW/daoYWYYnKF/5vdLkqUUfK0I0phcnZpcyBGbGF0cGFrIChqYXJ2aXMua2Vjc2tlcy5kZXYpiJkEExYKAEEWIQSoE0BRJDUkrnvQdIRblIAuyaV0TgUCavxOeQIbAwUJA8JnAAULCQgHAgIiAgYVCgkICwIEFgIDAQIeBwIXgAAKCRBblIAuyaV0TmUtAQD74gH6d8mReQQdvmbnC14vJBRtgMhhsNMvdrqPfuGUcwEAmS0WC62Mi4i0kZn+DT+zimJ5+Ry3ujYbd0TFnDw28AY=
